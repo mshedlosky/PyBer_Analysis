@@ -8,6 +8,9 @@ The data demonstrates that the monetary gains are most prominent in the Urban ar
 Figure 1. Pyber Fare by City Chart
 ![This is an image](https://github.com/mshedlosky/PyBer_Analysis/blob/main/Pyber_fare_summary.png)
 
+Figure 2. Pyber Summary Chart
+
+![This is an image](https://github.com/mshedlosky/PyBer_Analysis/blob/main/Pyber_Data_Summary_Challenge.PNG)
 - Urban cities lead in total rides, total drivers, and total fares. 
 - The ratio of drivers to rides is 1.48, which is the highest amongst all city types. 
 - The availability of drivers in Urban cities is far greater than Rural cities. 
@@ -15,5 +18,3 @@ Figure 1. Pyber Fare by City Chart
 - The total fares for Urban Cities is 9 times greater than Rural, and 2 times greater than Suburan, respectively. 
 - The average fare per ride is highest in Rural areas, and lowest in Urban areas.
 - The average fare per driver is lowest in Urban cities and highest in Rural cities.
-Figure 2. Pyber Summary Chart
-![This is an image](https://github.com/mshedlosky/PyBer_Analysis/blob/main/Pyber_Data_Summary_Challenge.PNG)
